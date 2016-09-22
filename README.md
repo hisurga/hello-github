@@ -1,2 +1,2 @@
-# hello-github
+# Hello-GitHub
 Thank you,
